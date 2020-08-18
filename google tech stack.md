@@ -18,13 +18,13 @@ Google began in January 1996 as a research project by Larry Page and Sergey Brin
 ### PRODUCTS AND SERVICES OF GOOGLE:
 
 Google has developed many products among that some are quite popular. Google said at its developer conference in 2017 that it has 7 products with over 1 billion users:
-*Gmail,
-*Chrome,
-*Maps,
-*search,
-*YouTube,
-*Google Play Store and
-*Android
+-Gmail,
+-Chrome,
+-Maps,
+-search,
+-YouTube,
+-Google Play Store and
+-Android
 which just hit 2 billion active devices.
 
 services offered by google are Search engine,Advertising,Consumer services such as Web-based services,Software,Hardware. ,Enterprise services,Internet services.
@@ -36,13 +36,13 @@ Google’s tech stack include: Adobe (ColdFusion, Flash), AngularJS, Apache (Com
 
 Additionally, here’s a list of other software products that Google is using internally:
 
-**Marketing**: Alliance Tech, Attendify, Marketo, Owler
-**Sales and Support**: Accompany, Conga, Veelo, Zoominfo
-**Product and Design**: Adobe Typekit, Atomic, Pixate, Sketch
-**Analytics**: Alteryx, ClickTale, ExtraHop, Mixpanel
-**HR**: AngelList Jobs, CrowdFlower, Hiree, Switch
-**Finance and Accounting**: Bango, Fortumo, Payoneer, SpringCM
-**Productivity**: Creately, Shopify, Slack, Zimbra
+-**Marketing**: Alliance Tech, Attendify, Marketo, Owler
+-**Sales and Support**: Accompany, Conga, Veelo, Zoominfo
+-**Product and Design**: Adobe Typekit, Atomic, Pixate, Sketch
+-**Analytics**: Alteryx, ClickTale, ExtraHop, Mixpanel
+-**HR**: AngelList Jobs, CrowdFlower, Hiree, Switch
+-**Finance and Accounting**: Bango, Fortumo, Payoneer, SpringCM
+-**Productivity**: Creately, Shopify, Slack, Zimbra
 
 Google uses various applications and languages to develop its products. Google also uses its own developing tools.
 
@@ -53,27 +53,33 @@ Google uses various applications and languages to develop its products. Google a
 > “Python has been an important part of Google since the beginning, and remains so as the system grows and evolves. Today dozens of Google engineers use Python, and we’re looking for more people with skills in this language” -by Peter Norvig, director of search quality at Google, Inc
 Google use python in many aspects some are, 
 
-Google App Engine — Python was the language Google App Engine was originally designed for. Google App Engine is an eminent sample of Python-written application, it allows building web applications with Python programming language, using its rich collection of libraries, tools and frameworks.
-YouTube — is a big user of Python, the entire site uses Python for different purposes: view video, control templates for website, administer video, access to canonical data, and many more.
+-***Google App Engine*** — Python was the language Google App Engine was originally designed for. Google App Engine is an eminent sample of Python-written application, it allows building web applications with Python programming language, using its rich collection of libraries, tools and frameworks.
 
-FRONT END AND BACK END LANG
+-***YouTube*** — is a big user of Python, the entire site uses Python for different purposes: view video, control templates for website, administer video, access to canonical data, and many more.
+
+### FRONT END AND BACK END LANGNGUAGE
+
 some of the languages used by google search engines are
-Front end :
-JavaScript,
-TypeScript
-Back end:
-C,
-C++,
-Go,
-Java,
-Python
-Data Base:
-Bigtable,
-MariaDB
-Image for post
-“GOOGLE is the only teacher who can teach a student anything everything at anytime “
-Thank you for reading my blog . Bye🖐🏻 guys, see you soon.
 
+Front end :
+-JavaScript,
+-TypeScript
+
+Back end:
+-C,
+-C++,
+-Go,
+-Java,
+-Python
+
+Data Base:
+-Bigtable,
+-MariaDB
+
+>“GOOGLE is the only teacher who can teach a student anything everything at anytime “
+ 
+ 
+ Thank you for reading it. Bye🖐🏻 guys
 
 #TechStack #Google
 
