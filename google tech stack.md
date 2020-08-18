@@ -1,4 +1,4 @@
-> “Ever wondered how you life will be if there is no such thing as GOOGLE” lets view about Technology stack used by google.
+< “Ever wondered how you life will be if there is no such thing as GOOGLE” lets view about Technology stack used by google.
 
 Hi 🙋readers, A warm welcome🙏🏻 to all.
 " Once there was a time we follow our subject staff to clarify our doubts , but those days are gone due to the fellow GOOGLE".
