@@ -18,13 +18,13 @@ Google began in January 1996 as a research project by Larry Page and Sergey Brin
 ### PRODUCTS AND SERVICES OF GOOGLE:
 
 Google has developed many products among that some are quite popular. Google said at its developer conference in 2017 that it has 7 products with over 1 billion users:
--Gmail,
--Chrome,
--Maps,
--search,
--YouTube,
--Google Play Store and
--Android
+- Gmail,
+- Chrome,
+- Maps,
+- search,
+- YouTube,
+- Google Play Store and
+- Android
 which just hit 2 billion active devices.
 
 services offered by google are Search engine,Advertising,Consumer services such as Web-based services,Software,Hardware. ,Enterprise services,Internet services.
