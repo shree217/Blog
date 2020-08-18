@@ -36,13 +36,13 @@ Google’s tech stack include: Adobe (ColdFusion, Flash), AngularJS, Apache (Com
 
 Additionally, here’s a list of other software products that Google is using internally:
 
--**Marketing**: Alliance Tech, Attendify, Marketo, Owler
--**Sales and Support**: Accompany, Conga, Veelo, Zoominfo
--**Product and Design**: Adobe Typekit, Atomic, Pixate, Sketch
--**Analytics**: Alteryx, ClickTale, ExtraHop, Mixpanel
--**HR**: AngelList Jobs, CrowdFlower, Hiree, Switch
--**Finance and Accounting**: Bango, Fortumo, Payoneer, SpringCM
--**Productivity**: Creately, Shopify, Slack, Zimbra
+- **Marketing**: Alliance Tech, Attendify, Marketo, Owler
+- **Sales and Support**: Accompany, Conga, Veelo, Zoominfo
+- **Product and Design**: Adobe Typekit, Atomic, Pixate, Sketch
+- **Analytics**: Alteryx, ClickTale, ExtraHop, Mixpanel
+- **HR**: AngelList Jobs, CrowdFlower, Hiree, Switch
+- **Finance and Accounting**: Bango, Fortumo, Payoneer, SpringCM
+- **Productivity**: Creately, Shopify, Slack, Zimbra
 
 Google uses various applications and languages to develop its products. Google also uses its own developing tools.
 
@@ -53,28 +53,28 @@ Google uses various applications and languages to develop its products. Google a
 > “Python has been an important part of Google since the beginning, and remains so as the system grows and evolves. Today dozens of Google engineers use Python, and we’re looking for more people with skills in this language” -by Peter Norvig, director of search quality at Google, Inc
 Google use python in many aspects some are, 
 
--***Google App Engine*** — Python was the language Google App Engine was originally designed for. Google App Engine is an eminent sample of Python-written application, it allows building web applications with Python programming language, using its rich collection of libraries, tools and frameworks.
+- ***Google App Engine*** — Python was the language Google App Engine was originally designed for. Google App Engine is an eminent sample of Python-written application, it allows building web applications with Python programming language, using its rich collection of libraries, tools and frameworks.
 
--***YouTube*** — is a big user of Python, the entire site uses Python for different purposes: view video, control templates for website, administer video, access to canonical data, and many more.
+- ***YouTube*** — is a big user of Python, the entire site uses Python for different purposes: view video, control templates for website, administer video, access to canonical data, and many more.
 
 ### FRONT END AND BACK END LANGNGUAGE
 
 some of the languages used by google search engines are
 
 Front end :
--JavaScript,
--TypeScript
+- JavaScript,
+- TypeScript
 
 Back end:
--C,
--C++,
--Go,
--Java,
--Python
+- C,
+- C++,
+- Go,
+- Java,
+- Python
 
 Data Base:
--Bigtable,
--MariaDB
+- Bigtable,
+- MariaDB
 
 >“GOOGLE is the only teacher who can teach a student anything everything at anytime “
  
